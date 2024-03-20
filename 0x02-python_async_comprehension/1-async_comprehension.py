@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""coroutine loops multiple times"""
+"""coroutine loops multiple times"""
 from typing import List
 from importlib import import_module as using
 
